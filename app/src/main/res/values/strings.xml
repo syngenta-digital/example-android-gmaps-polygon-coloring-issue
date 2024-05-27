@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GMapsPolygonColoringIssue</string>
+    <string name="change_polygon_color">Change polygon color</string>
+    <string name="change_polygon_color_loop">Change polygon color with loop</string>
+</resources>
